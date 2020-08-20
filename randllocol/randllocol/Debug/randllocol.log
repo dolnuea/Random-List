@@ -1,0 +1,5 @@
+﻿  randllocol.cpp
+C:\Users\dolne\source\repos\randllocol\randllocol\randllocol.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dolne\source\repos\randllocol\randllocol\randllocol.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dolne\source\repos\randllocol\randllocol\randllocol.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+  randllocol.vcxproj -> C:\Users\dolne\source\repos\randllocol\Debug\randllocol.exe
